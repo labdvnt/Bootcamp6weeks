@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "name": "Luke Skywalker",
+        "height": 1.72,
+        "mass": 73.0,
+        "gender": "male",
+        "homeworld": "tatooine",
+        "wiki": "http://starwars.wikia.com/wiki/Luke_Skywalker",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg",
+        "born": -19,
+        "bornLocation": "polis massa",
+        "died": null,
+        "diedLocation": null,
+        "species": "Human",
+        "hairColor": "blond",
+        "eyeColor": "blue",
+        "skinColor": "fair",
+        "cybernetics": null,
+        "affiliations": [
+            "Alliance to Restore the Republic"
+        ],
+        "masters": [
+            "Obi-Wan Kenobi",
+            "Yoda"
+        ],
+        "apprentices": [
+            "Ben Solo"
+        ],
+        "formerAffiliations": [
+            "Galactic Empire"
+        ],
+        "dateCreated": null,
+        "dateDestroyed": null,
+        "destroyedLocation": null,
+        "creator": null,
+        "manufacturer": null,
+        "model": null,
+        "class": null,
+        "sensorColor": null,
+        "platingColor": null,
+        "equipment": null,
+        "productLine": null,
+        "kajidic": null,
+        "era": null,
+        "degree": null,
+        "armament": null
+    },
+    {
+        "id": 20,
+        "name": "Yoda",
+        "height": 0.66,
+        "mass": 13.0,
+        "gender": "male",
+        "homeworld": null,
+        "wiki": "http://starwars.wikia.com/wiki/Yoda",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d4/Yoda_SWSB.png",
+        "born": -896,
+        "bornLocation": null,
+        "died": 4,
+        "diedLocation": "Dagobah",
+        "species": "Yoda's species",
+        "hairColor": "white",
+        "eyeColor": "brown",
+        "skinColor": "green",
+        "cybernetics": null,
+        "affiliations": [
+            "Galactic Republic"
+        ],
+        "masters": [
+            "N'Kata Del Gormo"
+        ],
+        "apprentices": [
+            "Kit Fisto",
+            "Mace Windu",
+            "Obi-Wan Kenobi",
+            "Qui-Gon Jinn",
+            "Cin Drallig",
+            "Luke Skywalker",
+            "Count Dooku"
+        ],
+        "formerAffiliations": [],
+        "dateCreated": null,
+        "dateDestroyed": null,
+        "destroyedLocation": null,
+        "creator": null,
+        "manufacturer": null,
+        "model": null,
+        "class": null,
+        "sensorColor": null,
+        "platingColor": null,
+        "equipment": null,
+        "productLine": null,
+        "kajidic": null,
+        "era": null,
+        "degree": null,
+        "armament": null
+    },
+    {
+        "id": 16,
+        "name": "Jabba Desilijic Tiure",
+        "height": 1.75,
+        "mass": 1358.0,
+        "gender": "hermaphrodite",
+        "homeworld": "tatooine",
+        "wiki": "http://starwars.wikia.com/wiki/Jabba_the_Hutt",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Jabba_SWSB.png",
+        "born": -600,
+        "bornLocation": null,
+        "died": 4,
+        "diedLocation": "Tatooine",
+        "species": "Hutt",
+        "hairColor": "none",
+        "eyeColor": "orange",
+        "skinColor": "green-tan",
+        "cybernetics": null,
+        "affiliations": [
+            "Hutt Clan"
+        ],
+        "masters": [],
+        "apprentices": [],
+        "formerAffiliations": [],
+        "dateCreated": null,
+        "dateDestroyed": null,
+        "destroyedLocation": null,
+        "creator": null,
+        "manufacturer": null,
+        "model": null,
+        "class": null,
+        "sensorColor": null,
+        "platingColor": null,
+        "equipment": [
+            "Hookah",
+            "gong"
+        ],
+        "productLine": null,
+        "kajidic": "Desilijic",
+        "era": [
+            "Rise of the Empire era",
+            "Rebellion era"
+        ],
+        "degree": null,
+        "armament": null
+    }
+]
